@@ -1,0 +1,12 @@
+
+Y
+java:S1854"<Remove this useless assignment to local variable "decimal1".(©¤ï‡8³†Öİı/
+J
+java:S1481"-Remove this unused "decimal1" local variable.(©¤ï‡8³†Öİı/
+T	java:S106"9Replace this use of System.out or System.err by a logger.(ÕÂ–g8÷Ê×İı/
+R
+java:S1481"0Remove this unused "valorLogico" local variable.(£”Å°øÿÿÿÿ8ïÿ³İı/
+0
+java:S1220""Move this file to a named package.
+Z	java:S106
+"9Replace this use of System.out or System.err by a logger.(ÖÔÂÛşÿÿÿÿ8Ñƒøİı/
